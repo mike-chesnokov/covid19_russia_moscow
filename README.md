@@ -34,6 +34,8 @@ This repo contains notebook, which was being made during the pandemic of COVID-1
 
 ## 1. Number of tests
 
+![Russia num tests cumulative](https://github.com/mike-chesnokov/covid19_russia_moscow/tree/master/pictures/russia_num_tests_cumulative.jpg)
+
 ## 2. New cases
 
 ## 3. Detection rate
