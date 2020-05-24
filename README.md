@@ -12,7 +12,11 @@ There are visualizations:
 2. New cases daily in Russia and regions;
 3. Detection rate in Russia
 
-## Data sources:
+## Data
+
+Collected data is in file `data/coronovirus_stats_data.xlsx`
+
+Data sources:
 
 - [official site](https://стопкоронавирус.рф/)
 - [yandex stats](https://yandex.ru/covid19/stat?utm_source=main_graph&geoId=213)
