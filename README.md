@@ -34,8 +34,16 @@ This repo contains notebook, which was being made during the pandemic of COVID-1
 
 ## 1. Number of tests
 
-![Russia num tests cumulative](https://github.com/mike-chesnokov/covid19_russia_moscow/tree/master/pictures/russia_num_tests_cumulative.jpg)
+![Russia num tests cumulative](https://github.com/mike-chesnokov/covid19_russia_moscow/blob/master/pictures/russia_num_tests_cumulative.png)
+
+![Regions num tests daily](https://github.com/mike-chesnokov/covid19_russia_moscow/blob/master/pictures/num_tests_by_region.png)
 
 ## 2. New cases
 
+![Russia new cases cumulative](https://github.com/mike-chesnokov/covid19_russia_moscow/blob/master/pictures/russia_num_new_cases_daily_cumulative.png)
+
+![Regions new cases daily](https://github.com/mike-chesnokov/covid19_russia_moscow/blob/master/pictures/num_new_cases_by_region.png)
+
 ## 3. Detection rate
+
+![Russia detection rate](https://github.com/mike-chesnokov/covid19_russia_moscow/blob/master/pictures/russia_detection_rate_daily.png)
