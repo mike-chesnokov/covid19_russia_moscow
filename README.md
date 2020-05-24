@@ -6,6 +6,11 @@ This repo contains notebook, which was being made during the pandemic of COVID-1
 - Since 15th of April: Permits for moving around the Moscow (public and personal transport);
 - Since 12th of May: Mandatory wearing of masks and gloves (in public places and transport);
 
+There are visualizations:
+
+1. Number of tests in Russia and regions;
+2. New cases daily in Russia and regions;
+3. Detection rate in Russia
 
 ## Data sources:
 
